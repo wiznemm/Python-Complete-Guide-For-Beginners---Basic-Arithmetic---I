@@ -67,3 +67,7 @@ For any inquiries or feedback, feel free to reach out to me via email at wasifsd
 This repository is licensed under the MIT License, allowing you to use, modify, and distribute the content for educational purposes.
 
 Start your Python journey today! 🐍✨
+
+```bash
+Made with 💖 by Muhammad Wasif
+```
